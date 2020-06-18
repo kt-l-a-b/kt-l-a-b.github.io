@@ -101,4 +101,4 @@ This privacy policy is effective to distribution made on official channel only.<
 <p><h2>Contact me</h2></p>
 <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to
 contact me.</p>
-<p><a href="mailto:ubeeslab@gmail.com">ubeeslab@gmail.com</a></p>
+<p>ubeeslab(at)gmail(dot)com</p>
