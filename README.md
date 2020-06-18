@@ -82,9 +82,9 @@ Therefore, I h2ly advise you to review the Privacy Policy of these websites. I h
 no control over and assume no responsibility for the content, privacy policies, or
 practices of any third-party sites or services.</p>
 <p><h2>6. Children’s Privacy</h2></p>
-<p>These Services do not address anyone under the age of 9. I do not knowingly collect
-personally identifiable information from children under 9. In the case I discover that
-a child under 9 has provided me with personal information, I immediately delete those
+<p>These Services do not address anyone under the age of 6. I do not knowingly collect
+personally identifiable information from children under 6. In the case I discover that
+a child under 6 has provided me with personal information, I immediately delete those
 informations. If you are a parent or guardian and you are aware that your child has
 provided personal information, please contact me so that I will be able to do necessary
 actions.</p>
