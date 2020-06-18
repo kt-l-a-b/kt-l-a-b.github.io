@@ -97,7 +97,7 @@ actions.</p>
 <p>Any other mode of distribution is not official and thus, is not maintained by the developer.
 This privacy policy is effective to distribution made on official channel only.</p>
 <p><h2>8. Changes to This Privacy Policy</h2></p>
-<p>This policy may be updated from time to time.</p>
+<p>I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.</p>
 <p><h2>Contact me</h2></p>
 <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to
 contact me.</p>
