@@ -1,8 +1,23 @@
-<head>
-<title> Cloud Penguin App Privacy Policy</title>
-</head>
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<h1>Privacy Policy</h1>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css" >
+
+    <title>Cloud Penguin App Privacy Policy</title>
+  </head>
+  <body>
+
+    <center><img src="image/logo.png" style="margin-top: 10px;" alt="Cloud Penguin App Privacy Policy" width="309" height="88"></center>
+  <br>
+<div style="margin-left: 20px;">
+
+  <h1>Privacy Policy</h1>
 
 
 <p>Effective date: June 18, 2020</p>
@@ -22,15 +37,15 @@ Unless otherwise defined in this Privacy Policy,
 terms used in this Privacy Policy have the same meanings 
 as in our Terms and Conditions.</p> -->
 
-<p><h2>1. Overview</h2></p>
+<h2>1. Overview</h2>
 <p>The app uses advertising to make revenue. The app uses third party
 libraries for advertising which may collect and share personal information with third
 parties.</p>
 <p>Links to privacy policies of third party service providers used in the app</p>
 <p>Google Play Services <a href="https://www.google.com/policies/privacy/" rel="nofollow">https://www.google.com/policies/privacy/</a>
 Unity ADS <a href="https://unity3d.com/ru/legal/privacy-policy" rel="nofollow">https://unity3d.com/ru/legal/privacy-policy</a></p>
-<p><h2>2. Sharing Your Information</h2>
-The developer will share personal information with third parties only in the ways that are
+<h2>2. Sharing Your Information</h2>
+<p>The developer will share personal information with third parties only in the ways that are
 described in this privacy statement.</p>
 <p>Your personal information may be disclosed:</p>
 <ul>
@@ -102,3 +117,16 @@ This privacy policy is effective to distribution made on official channel only.<
 <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to
 contact me.</p>
 <p>ubeeslab(at)gmail(dot)com</p>
+
+</div>
+
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  </body>
+</html>
