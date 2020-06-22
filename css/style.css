@@ -1,0 +1,42 @@
+html
+{
+	font-family:sans-serif;
+	font-color: #fff;
+}
+
+body
+{
+	background: #262621;
+}
+
+a
+{
+	color: #8c862b;
+	outline: none;
+}
+
+a:hover 
+{
+	color: #f2a03d;
+	outline: none;
+}
+
+h1
+{
+	color: #f2a03d;
+}
+
+p
+{
+	color: #a68a68;
+}
+
+li
+{
+	color: #a68a68;
+}
+
+h2
+{
+	color: #735032;
+}
